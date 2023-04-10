@@ -1,0 +1,35 @@
+*{
+    width: 100%;
+    background-color: orange;
+    text-align: center;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 40px;
+}
+.first_photo{
+
+    width: 30%;
+    
+}
+.second_photo{
+    margin-left: 450px;
+    width: 30%;
+    flex: top;
+    float: center;
+    margin-top: -450px;
+}
+.third_photo{
+    float: right;
+    width: 30%;
+    margin-top: -470px;
+}
+
+/* .photoes{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+} */
+.first_photo{
+    margin-top: 90px;
+}

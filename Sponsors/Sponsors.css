@@ -1,0 +1,20 @@
+*{
+    background: rgb(109, 151, 115);
+    margin-left: 0%;
+    margin-top: 0%;
+    font-style: normal;
+}
+.letter{
+    float: right;
+    margin-top: -550px;
+    margin-right: 150px;
+}
+.letter h1{
+    font-size: 75px;
+    color: white;
+}
+.letter p{
+    color: white;
+    font-size: 20px;
+    line-height: 35px;
+}
